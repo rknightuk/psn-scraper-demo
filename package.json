@@ -1,0 +1,22 @@
+{
+  "name": "psn-scraper-demo",
+  "version": "1.0.0",
+  "description": "Demo of scraping latest games from a PSN profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rknightuk/psn-scraper-demo.git"
+  },
+  "author": "Robb Knight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rknightuk/psn-scraper-demo/issues"
+  },
+  "homepage": "https://github.com/rknightuk/psn-scraper-demo#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
